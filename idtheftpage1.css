@@ -1,0 +1,89 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  align: center;
+
+  background: #151019;
+
+  background-image: url(Page1Header.jpg);
+	background-position: top;
+	background-size: 1920px 500px;
+  background-repeat: no-repeat;
+}
+.column {
+	flex-basis: 40%;
+}
+
+/* text specifications for the title */
+.column h1 {
+	color: #ffffff;
+  font-family: Calibri;
+	font-size: 70px;
+  text-shadow: 0 0 5px #000000;
+  width: 70%;
+  padding-top: 450px
+}
+
+/* paragraph text specifications */
+p {
+	font-family: Calibri;
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 20px;
+	margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
+  line-height: 1.75;
+}
+h1{
+  color: #ffffff;
+  font-family: Calibri;
+	font-size: 70px;
+	margin-bottom: 100px;
+  text-shadow: 0 0 5px #000000;
+  width: 57%;
+  margin: 0 auto;
+  text-align: center;
+  
+}
+.req ul li{
+	font-family: Calibri;
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 20px;
+	margin-right: 200px;
+  margin-left: 200px;
+  text-align: left;
+  line-height: 1.75;
+}
+
+.resp ul li{
+	font-family: Calibri;
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 20px;
+	margin-right: 200px;
+  margin-left: 200px;
+  text-align: left;
+  line-height: 1.75;
+}
+
+/* specifications for every image*/
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+  border-radius: 50%;
+}
+
+h4 {
+	text-align: center;
+	color: #F8F8FF;
+	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+	font-family: Calibri;
+	font-size: 19px;
+  padding-top:5px;
+}
