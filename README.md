@@ -17,7 +17,7 @@ Identity theft and cybersecurity breaches have become increasingly prevalent in 
 ## Features
 
 - **Informative Content**: The website provides a wealth of information about identity theft, its consequences, and how to prevent it.
-- **Interactive Elements**: Engage visitors with interactive quizzes, videos, and informative graphics.
+- **Interactive Elements**: Engage visitors with interactive and informative graphics.
 - **Resources**: Curated list of cybersecurity resources, tips, and tools to help users secure their online presence.
 - **Responsive Design**: The website is designed to be accessible and responsive on various devices and screen sizes.
 - **Easy Navigation**: User-friendly navigation ensures that visitors can quickly find the information they need.
