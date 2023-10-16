@@ -3,8 +3,6 @@
 
 This repository contains the source code for an educational website dedicated to raising awareness about identity theft and cybersecurity. The website is built using HTML, CSS, and JavaScript to provide a user-friendly and informative experience for visitors.
 
-**Check out the website here: [Identity Theft and Cybersecurity Website](https://muhaiminmemon.github.io/Website-Identity-Theft/)**
-
 ## Table of Contents
 
 - [Introduction](#introduction)
